@@ -1,10 +1,8 @@
 # noname - 
 
-# Why?
+# Background
 
-# What?
-
-# How?
+# Usage
 Requirements
 ------------
 
@@ -12,7 +10,7 @@ Installation
 ------------
 
 
-Usage
+CLI
 -----
 
 
